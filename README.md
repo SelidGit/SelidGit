@@ -10,7 +10,7 @@
 ![200w](https://github.com/SelidGit/SelidGit/assets/105205438/0ba6614c-3d62-4668-a95c-acfd54bf1c3c)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I have worked with:</h3>
 <table border="none">
   <tr>
     <th>Languages</th>
