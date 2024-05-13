@@ -1,3 +1,8 @@
+<style>
+  h1 {align="center"}
+  th {align="center"}
+  td {align="center"}
+</style>
 ![giphy](https://github.com/SelidGit/SelidGit/assets/105205438/1ee84159-08fb-45db-aa64-5f821c135f8d)
 
 # Hellos stranger, My name is Olli 👋
