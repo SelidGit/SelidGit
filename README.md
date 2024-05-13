@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table border="none">
   <tr>
     <th>Languages</th>
     <th>Front-end</th>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </td>
-    <td align="center"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></td>
+    <td align="center"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </td>
     <td align="center"> </td>
     <td align="center"> </td>
     <td align="center"> </td>
