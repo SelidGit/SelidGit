@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on building my own house with my wife, and try to balance things out with work and school life in the meantime
 - 📫 How to reach me: One way to reach me is by my email - olli.p.mononen@gmail.com
-- ⚡ Fun fact: Isaac Newton invented the cat door, thanks Isaac!
-  ![200w](https://github.com/SelidGit/SelidGit/assets/105205438/2c196176-3deb-4fab-9a37-59a63e334ba9)                                                       
+- ⚡ Fun fact: Isaac Newton invented the cat door, thanks Isaac!                                                     
                   
 
 <h3 align="left">Languages and Tools:</h3>
