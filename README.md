@@ -1,3 +1,5 @@
+![giphy](https://github.com/SelidGit/SelidGit/assets/105205438/1ee84159-08fb-45db-aa64-5f821c135f8d)
+
 ### Hi there 👋
 
 <!--
